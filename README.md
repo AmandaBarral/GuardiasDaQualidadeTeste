@@ -205,3 +205,4 @@ test.bat
     test.bat -- Arquivo para rodar teste no Windows
 
     test.sh -- Arquivo para rodar teste no Unix# GuardiasDaQualidadeTeste
+# GuardiasDaQualidadeTeste
